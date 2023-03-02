@@ -12,3 +12,6 @@ The main task of the application is to link tools to specific employees, thanks 
 6. A report that allows you to check all the tools possessed by a given employee with the possibility of printing PDF file.
 7. A report that allows you to get all the tools in database and create PDF file.
 8. Admin panel for managing and creating new users and assigning access for them (standard user / admin user )
+
+
+## Application views:
