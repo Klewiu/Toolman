@@ -17,5 +17,5 @@ The main task of the application is to link tools to specific employees, thanks 
 
 
 ## Application views:
-[src/Toolman_example_1.PNG]&nbsp;&nbsp;&nbsp;<img src="https://github.com/Klewiu/Toolman/blob/master/frontend/src/Toolman_example_2.PNG" alt="example2" width="auto" height="330" margin="5px" />&nbsp;&nbsp;&nbsp;
+[![example1](src/Toolman_example_1.PNG)]&nbsp;&nbsp;&nbsp;<img src="https://github.com/Klewiu/Toolman/blob/master/frontend/src/Toolman_example_2.PNG" alt="example2" width="auto" height="330" margin="5px" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Klewiu/Toolman/blob/master/frontend/src/Toolman_example_3.PNG" alt="example3" width="auto" height="330" margin="5px" />&nbsp;&nbsp;&nbsp;
