@@ -1,6 +1,6 @@
 # <img src="https://github.com/Klewiu/Toolman/blob/master/frontend/src/Logo_Toolman.PNG" />
 Toolman is a <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" width="auto" height="40" align="center" margin="1px" /> stack project created to help manage tools in manufacturing or construction companies. 
-The main task of the application is to link tools to specific employees, thanks to which we can receive the status of all tools entrusted to a given person at a given moment. Applications using <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg"  width="auto" height="20" align="center" margin="1px"/>
+The main task of the application is to link tools to specific employees, thanks to which we can receive the status of all tools entrusted to a given person at a given moment. Applications using <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg"  width="auto" height="15" align="center" margin="1px"/>
 
 
 ## Main features:
